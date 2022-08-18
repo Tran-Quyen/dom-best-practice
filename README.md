@@ -8,8 +8,6 @@
 
 👉👉 **[Chi tiết 30 projects thực chiến HTML CSS Javascript](https://www.facebook.com/TechFun-291140716013783)** 👈👈
 
-### QSource: https://tran-quyen.github.io/dom-best-practice/
-
 |  #  | Project                                                                                                         | Live Demo                                                                                         |
 | :-: | --------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
 | 00  | [Tab Module](https://tran-quyen.github.io/dom-best-practice/0-tab-module/index.html)                            | [Live Demo](https://tran-quyen.github.io/dom-best-practice/0-tab-module/index.html)               |
